@@ -1,0 +1,36 @@
+body {
+	overflow: hidden;
+	margin: 0px;
+}
+
+.df {
+	border-top: 2px solid #000000;
+	border-bottom: 2px solid #000000;
+	padding: 0px 5px;
+	float: left;
+}
+
+#counter {
+	border-right: .5px solid #000000;
+	border-left: 2px solid #000000;
+	margin: .5px;
+}
+
+#info {
+	border-left: .5px solid #000000;
+	border-right: 2px solid #000000;
+	margin: .5px -1px;
+}
+
+#block {
+	border: 1px solid #000000;
+	margin: -1px -6px;
+	padding: 0px 5px;
+}
+
+#statistics {
+	height: 40vh;
+	padding: 10px;
+	overflow-y: auto;
+	float: left;
+}
